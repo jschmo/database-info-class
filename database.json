@@ -1,0 +1,51 @@
+{
+  "database_classification": [
+    {
+      "database_name": "db1",
+      "database_owner": "abc1@mercadolivre.com",
+      "classification": "high"
+    },
+    {
+      "database_name": "db2",
+      "database_owner": "abc2@mercadolivre.com",
+      "classification": "low"
+    },
+    {
+      "database_name": "db3",
+      "database_owner": "abc3@mercadolivre.com"
+    },
+    {
+      "database_name": "db4",
+      "database_owner": "abc2@mercadolivre.com",
+      "classification": "medium"
+    },
+    {
+      "database_name": "db5",
+      "database_owner": "abc1",
+      "classification": "medium"
+    },
+    {
+      "database_name": "db6",
+      "database_owner": "abc1@mercadolivre.com",
+      "classification": "high"
+    },
+    {
+      "database_name": "db7",
+      "classification": "low"
+    },
+    {
+      "database_name": "db8",
+      "database_owner": "abc2@mercadolivre.com",
+      "classification": "medium"
+    },
+    {
+      "database_name": "db9",
+      "database_owner": "abc3@mercadolivre.com"
+    },
+    {
+      "database_name": "db10",
+      "database_owner": "abc2@mercadolivre.com",
+      "classification": "low"
+    }
+  ]
+}
